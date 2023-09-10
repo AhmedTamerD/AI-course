@@ -1,0 +1,19 @@
+what is each of them:hadoop,spark
+What is Apache Hadoop?
+Apache Hadoop is an open-source software utility that allows users to manage big data sets (from gigabytes to petabytes) by enabling a network of computers (or “nodes”) to solve vast and intricate data problems. It is a highly scalable, cost-effective solution that stores and processes structured, semi-structured and unstructured data (e.g., Internet clickstream records, web server logs, IoT sensor data, etc.).
+
+Benefits of the Hadoop framework include the following:
+
+Data protection amid a hardware failure
+Vast scalability from a single server to thousands of machines
+Real-time analytics for historical analyses and decision-making processes
+
+What is Apache Spark?
+Apache Spark — which is also open source — is a data processing engine for big data sets. Like Hadoop, Spark splits up large tasks across different nodes. However, it tends to perform faster than Hadoop and it uses random access memory (RAM) to cache and process data instead of a file system. This enables Spark to handle use cases that Hadoop cannot.
+
+Benefits of the Spark framework include the following:
+
+A unified engine that supports SQL queries, streaming data, machine learning (ML) and graph processing
+Can be 100x faster than Hadoop for smaller workloads via in-memory processing, disk data storage, etc.
+APIs designed for ease of use when manipulating semi-structured data and transforming data
+Apache Spark, the largest open-source project in data processing, is the only processing framework that combines data and artificial intelligence (AI). This enables users to perform large-scale data transformations and analyses, and then run state-of-the-art machine learning (ML) and AI algorithms.
